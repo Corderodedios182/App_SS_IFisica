@@ -137,7 +137,7 @@ server <- function(input, output,session) {
         "Click Box"
       )
     })
-  }
+}
 
 shinyApp(ui, server)
 
