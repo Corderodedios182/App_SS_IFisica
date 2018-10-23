@@ -1,5 +1,13 @@
 library(shinydashboard)
 library(shiny)
+
+#Es el esqueleto, funciones basicas.
+
+#En la primer parte de defininen las variables header, sidebar, body. Las cuales sirvern para el UI (funcion dashbordpage())
+#En la segunda parte esta el UI
+#Tercera parte el server, ver la relacion que tiene con las variables del UI
+
+
 #########################
 #Creacion del encabezado#
 #########################
